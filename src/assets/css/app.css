@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans&display=swap');
+
+#app {
+    font-family: 'Kumbh Sans', sans-serif;
+}
+.router-link-exact-active {
+     font-weight: bold;
+}
